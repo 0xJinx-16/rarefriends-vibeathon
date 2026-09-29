@@ -5,7 +5,7 @@ Flappy Friends
 
 ## Builder / contact
 Builder: Loki Martinez
-Contact: via GitHub / project repo
+Contact: via X: https://x.com/0xmorty_dev
 Category: Character Spotlight
 
 ## One-sentence summary
